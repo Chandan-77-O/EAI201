@@ -1,2 +1,2 @@
-# EAI201
-This is intro to Ai ML college Course
+<h1>This Branch is just made for "Experiments"</h1>
+<h3><p>Infromation found here to be ignored.</p></h3>
