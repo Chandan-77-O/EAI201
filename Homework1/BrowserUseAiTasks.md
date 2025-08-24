@@ -1,6 +1,6 @@
 <a href="https://browser-use.com/">Browser Use</a><br>
 <a href="https://cloud.browser-use.com/share/VX56W3aESfgISyiJvd57Eg0iBLSjaFqD">Chat One(Academic use)</a><br>
-<a href="https://cloud.browser-use.com/share/VX56W3aESfgISyiJvd57Eg0iBLSjaFqD">Chat Two(Product research)</a><br>
+<a href="https://cloud.browser-use.com/share/3drLxO2Yb18yEdwAvrt2l-WxdDbMr86d">Chat Two(Product research)</a><br>
 <hr>
 <strong>Question</strong>
 <br>
