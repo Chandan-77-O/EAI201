@@ -1,18 +1,16 @@
 def ai_grading_assistant():
-    print("""Hello..!
-      I am your Grading AI Assistant and I will help you get your grades based on your marks.
-      Please Enter the options below..""")
+    print("""Hello..I am your Grading AI Assistant and I will help you get your grades based on your marks.Please Enter the options below..""")
     
-    name=input("Enter student's name:")
+    name=input("\nEnter student's name:")
 
-    subs=int(input("How many subjects?:"))
+    subs=int(input("\nHow many subjects?:"))
     dict={}
     
     for i in range(0,subs):
-        subject=input(f"Enter name of subject {i+1}: ")
+        subject=input(f"\nEnter name of subject {i+1}: ")
         marks=float(input(f"Enter marks for {subject} (out of 100): "))
         dict[subject]=marks
-
+        
     print("Final Grading for:",name)
     total=0
     for subject, marks in dict.items():
@@ -32,3 +30,5 @@ def ai_grading_assistant():
         print("Final Grade: D")
     else:
         print("Final Grade: W")
+
+ai_grading_assistant()
