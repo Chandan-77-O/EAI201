@@ -1,0 +1,2 @@
+This folder has Home work code for Simulation Vaccum cleaner..
+I have created a 5x5 matrix(grid) to simulate the area in the virtual machine and then added shapes of vaccum cleaner which navigates through that shape.
